@@ -1,0 +1,16 @@
+PODS:
+  - CGCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - CGCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  CGCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CGCategoryKit: 1210a2691500f8885703ad32961ac12b8b6447a0
+
+PODFILE CHECKSUM: 14dadee354e1b679100ace350f98823c6954dda8
+
+COCOAPODS: 1.5.3
